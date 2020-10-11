@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577460866 source:c:\users\excalibur g770\desktop\ders projeleri\nihayet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
